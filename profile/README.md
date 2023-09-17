@@ -1,12 +1,6 @@
-## Hi there 👋
+## Halo, NEON WEB ID disini.
+<img alt="logo neon web id" src="https://github.com/neonwebid/.github/assets/11472981/07e942b2-0a53-43a4-b82c-4dbd09247db2" width="200px">
 
-<!--
+Neon Web ID adalah sebuah tim web developer yang mengkhususkan diri dalam pengembangan website menggunakan platform WordPress. Mereka memiliki keahlian dalam berbagai aspek WordPress, mulai dari modifikasi eksisting hingga pembuatan plugin dan tema khusus sesuai dengan kebutuhan klien. Dengan pengalaman lebih dari 2 tahun dalam dunia pengembangan WordPress.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Selain itu, Neon Web ID juga dikenal karena fleksibilitasnya dalam bekerja secara remote dengan berbagai perusahaan. Mereka memiliki kemampuan untuk beradaptasi dengan berbagai proyek dan lingkungan kerja, sehingga dapat memberikan solusi web yang tepat dan efisien kepada klien mereka, tanpa terbatas oleh lokasi fisik. Dengan kombinasi pengalaman dan kemampuan remote yang kuat, Neon Web ID menjadi pilihan yang ideal untuk proyek-proyek pengembangan website WordPress.
