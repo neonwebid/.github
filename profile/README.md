@@ -1,6 +1,16 @@
-## Halo, NEON WEB ID disini.
-<img alt="logo neon web id" src="https://github.com/neonwebid/.github/assets/11472981/07e942b2-0a53-43a4-b82c-4dbd09247db2" width="200px">
+<img alt="logo neon web id" src="https://github.com/neonwebid/.github/assets/11472981/07e942b2-0a53-43a4-b82c-4dbd09247db2">
 
-Neon Web ID adalah sebuah tim web developer yang mengkhususkan diri dalam pengembangan website menggunakan platform WordPress. Mereka memiliki keahlian dalam berbagai aspek WordPress, mulai dari modifikasi eksisting hingga pembuatan plugin dan tema khusus sesuai dengan kebutuhan klien. Dengan pengalaman lebih dari 2 tahun dalam dunia pengembangan WordPress.
+## NEON WEB ID: WordPress Developer
+Neon Web ID adalah sebuah tim web developer yang mengkhususkan diri dalam mengembangkan website berbasis WordPress. Mulai dari Perbaikkan, Editing/Modifikasi, Pembuatan Plugin dan Pembuatan Tema WordPress.
 
-Selain itu, Neon Web ID juga dikenal karena fleksibilitasnya dalam bekerja secara remote dengan berbagai perusahaan. Mereka memiliki kemampuan untuk beradaptasi dengan berbagai proyek dan lingkungan kerja, sehingga dapat memberikan solusi web yang tepat dan efisien kepada klien mereka, tanpa terbatas oleh lokasi fisik. Dengan kombinasi pengalaman dan kemampuan remote yang kuat, Neon Web ID menjadi pilihan yang ideal untuk proyek-proyek pengembangan website WordPress.
+## Skill
+- Modification WordPress Theme
+- Build WordPress Plugin
+- Build WordPress Theme
+
+## Freebase
+- Custom Post Type & Taxonomy Helper [#neon-cpt](https://github.com/neonwebid/neon-wp-snippet)
+- WP Snippet Code [#neon-wp-snippet](https://github.com/neonwebid/neon-wp-snippet)
+
+## Halaman Kami
+Website: [https://neon.web.id](https://neon.web.id) | Facebook: [neonwebid](https://www.facebook.com/neonwebid/) | Instagram: [@neonwebid](https://instagram.com/neonwebid/) | WhatsApp: [ChatMe](https://api.whatsapp.com/send?phone=6285161124544) | E-Mail: [Email Me](mailto:neonwpdev@gmail.com)
