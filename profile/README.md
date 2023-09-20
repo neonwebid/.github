@@ -9,8 +9,8 @@ Neon Web ID adalah sebuah tim web developer yang mengkhususkan diri dalam mengem
 - Build WordPress Theme
 
 ## Freebase
-- Custom Post Type & Taxonomy Helper [#neon-cpt](https://github.com/neonwebid/neon-wp-snippet)
-- WP Snippet Code [#neon-wp-snippet](https://github.com/neonwebid/neon-wp-snippet)
+- [neon-cpt](https://github.com/neonwebid/neon-wp-snippet) - Custom Post Type & Taxonomy Helper
+- [neon-wp-snippet](https://github.com/neonwebid/neon-wp-snippet) - WP Snippet Code: Kumpulan script untuk modifikasi WordPress
 - Snippet Code For GeneratePress <sup>`on going`</sup>
 - Plugin Related Inner Post <sup>`on going`</sup>
 - Plugin Biolink Author <sup>`on going`</sup>
