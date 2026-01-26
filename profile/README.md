@@ -29,6 +29,9 @@
 - [neon-wp-snippet](https://github.com/neonwebid/neon-wp-snippet)  
   *Kumpulan script dan fungsi untuk modifikasi WordPress*
 
+- [neon-simple-visitor-logs](https://github.com/neonwebid/neon-simple-visitor-logs)  
+  *Plugin visitor logger sederhana untuk membaca data visitor*
+
 - **Snippet GeneratePress** <sup>*(on going)*</sup>  
   *Modifikasi & optimasi child theme GeneratePress*
 
