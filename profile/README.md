@@ -1,4 +1,4 @@
-Kode yang kami pakai di [neon.web.id](https://neon.web.id) dan kami bagikan gratis: plugin WordPress dan potongan kode dari artikel. Tiap plugin punya halaman penjelasan di situs, ditulis untuk kamu yang bukan programmer.
+Kode gratis dari [neon.web.id](https://neon.web.id): plugin dan tema WordPress, skrip, web app, dan alat web. Di bawah ini yang sudah dirilis. Penjelasan cara pakainya ada di neon.web.id (kolom terakhir), ditulis untuk kamu yang bukan programmer.
 
 ## Plugin WordPress
 
