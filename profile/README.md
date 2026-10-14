@@ -1,77 +1,26 @@
-<img alt="logo neon web id" src="https://github.com/neonwebid/.github/assets/11472981/07e942b2-0a53-43a4-b82c-4dbd09247db2" width="200" />
+<img alt="Logo NeonWebId" src="https://github.com/neonwebid/.github/assets/11472981/07e942b2-0a53-43a4-b82c-4dbd09247db2" width="160" />
 
----
+# NeonWebId
 
-## NEON WEB ID – WordPress & Digital Marketing Hub
+Kode yang kami pakai di [neon.web.id](https://neon.web.id) dan kami bagikan gratis: plugin WordPress dan potongan kode dari artikel. Tiap plugin punya halaman penjelasan di situs, ditulis untuk kamu yang bukan programmer.
 
-**neon.web.id** adalah pusat pembelajaran dan pengembangan WordPress serta digital marketing untuk praktisi, pemilik bisnis, dan web developer di Indonesia. Kami menyediakan tutorial, tools, layanan pengembangan, serta sumber daya gratis seputar WordPress dan pemasaran digital.
+## Plugin WordPress
 
----
+| Plugin | Gunanya | Rilis | Penjelasan |
+|---|---|---|---|
+| [neon-simple-visitor-logs](https://github.com/neonwebid/neon-simple-visitor-logs) | Mencatat IP, lokasi, dan ASN pengunjung, termasuk bot | v2.0.1 | [neon.web.id](https://neon.web.id/freebies/neon-simple-visitor-logs/) |
+| [neon-affiliate-buttons](https://github.com/neonwebid/neon-affiliate-buttons) | Blok Gutenberg untuk tombol affiliate, atribut `sponsored` terpasang otomatis | v1.0.0 | [neon.web.id](https://neon.web.id/freebies/neon-affiliate-buttons/) |
+| [WooCouponHistory](https://github.com/neonwebid/WooCouponHistory) | Kupon WooCommerce khusus untuk pembeli produk tertentu, dihitung dari riwayat pesanan | v1.0.0 | [neon.web.id](https://neon.web.id/freebies/woocouponhistory/) |
+| [wc-manual-payment](https://github.com/neonwebid/wc-manual-payment) | Konfirmasi transfer manual WooCommerce: dasbor admin, email, kolom daftar pesanan | v1.0.0 | |
+| [inline-related-posts-wordpress](https://github.com/neonwebid/inline-related-posts-wordpress) | Tautan artikel terkait di tengah isi artikel. Ada juga [versi child theme](https://github.com/neonwebid/inline-related-posts-child-theme-wordpress) | | [neon.web.id](https://neon.web.id/membuat-inline-related-posts-dinamis-di-wordpress/) |
 
-## 🧰 Keahlian Kami
+Unduh dari halaman **Releases** di repo masing-masing, atau **Code → Download ZIP** untuk repo yang belum punya rilis. Menemukan bug? Buka *issue* di repo plugin itu.
 
-- Pengembangan Tema & Plugin WordPress
-- Kustomisasi Website WordPress (Front-End & Back-End)
-- Setup Toko Online dengan WooCommerce
-- Optimasi SEO WordPress (Teknis & On Page)
-- Email Marketing, Funnel, dan Automasi
-- Content Marketing & Strategi Branding Digital
+## Potongan kode
 
----
+- [neon-cpt](https://github.com/neonwebid/neon-cpt): membuat Custom Post Type tanpa plugin
+- [neon-wp-snippet](https://github.com/neonwebid/neon-wp-snippet): potongan kode untuk memodifikasi WordPress
 
-## 🔧 Project Open Source
+## Kontak
 
-> Tools & snippet gratis untuk komunitas WordPress & digital marketing Indonesia
-
-- [neon-cpt](https://github.com/neonwebid/neon-cpt)  
-  *Helper Custom Post Type & Taxonomy WordPress*
-
-- [neon-wp-snippet](https://github.com/neonwebid/neon-wp-snippet)  
-  *Kumpulan script dan fungsi untuk modifikasi WordPress*
-
-- [neon-simple-visitor-logs](https://github.com/neonwebid/neon-simple-visitor-logs)  
-  *Plugin visitor logger sederhana untuk membaca data visitor*
-
-- **Snippet GeneratePress** <sup>*(on going)*</sup>  
-  *Modifikasi & optimasi child theme GeneratePress*
-
-- **Plugin Related Inner Post** <sup>*(on going)*</sup>  
-  *Fitur inline related post berbasis shortcode + hook*
-
-- **Plugin BioLink Author** <sup>*(on going)*</sup>  
-  *Menampilkan tautan sosial media di halaman penulis WordPress*
-
----
-
-## 🌐 Halaman & Sosial Media Kami
-
-- Website: [https://neon.web.id](https://neon.web.id)
-- Facebook: [facebook.com/neonwebid](https://www.facebook.com/neonwebid/)
-- Instagram: [@neonwebid](https://instagram.com/neonwebid/)
-- YouTube: [youtube.com/@neonwebid](https://www.youtube.com/@neonwebid)
-- LinkedIn: [linkedin.com/company/neonwebid](https://www.linkedin.com/company/neonwebid/)
-- Email: [neonwebid@gmail.com](mailto:neonwebid@gmail.com)
-
----
-
-## 🤝 Siap Kolaborasi & Berkontribusi
-
-**neon.web.id** adalah platform edukasi dan layanan profesional yang fokus membantu pemula, pemilik bisnis, freelancer, dan agensi dalam memanfaatkan WordPress dan digital marketing secara maksimal.
-
-Kami percaya bahwa memiliki website saja tidak cukup. Kami hadir untuk membantu kamu:
-
-- **Membangun dan mengembangkan website WordPress**, dari awal hingga lanjutan, termasuk tema dan plugin kustom.
-- **Mengamankan dan merawat website**, mulai dari perbaikan situs yang diretas, update sistem, backup, hingga audit keamanan.
-- **Mengoptimalkan performa dan kecepatan**, agar website cepat diakses, ramah pengguna, dan disukai Google.
-- **Meningkatkan visibilitas digital** melalui SEO, integrasi media sosial, hingga strategi konten.
-- **Membantu pertumbuhan bisnis digital**, lewat desain funnel, email marketing, dan insight praktis berbasis pengalaman.
-
-Kami menyediakan:
-- Artikel dan tutorial teknis
-- Produk digital (plugin & tema gratis)
-- Kursus online terstruktur (coming soon)
-- Layanan profesional berbasis kebutuhan nyata
-
-> Tujuan kami adalah menjadikan WordPress sebagai aset digital yang benar-benar bekerja untuk bisnis kamu, bukan sekadar "ada".
-
-Jangan ragu untuk menghubungi atau berdiskusi langsung melalui [neonwebid@gmail.com](mailto:neonwebid@gmail.com) atau kunjungi [neon.web.id](https://neon.web.id).
+[neon.web.id](https://neon.web.id) · [YouTube](https://www.youtube.com/@neonwebid) · [Instagram](https://www.instagram.com/neonwebid) · [TikTok](https://www.tiktok.com/@neonwebid) · [Facebook](https://www.facebook.com/neonwebid) · [Threads](https://www.threads.com/@neonwebid) · neonwebid@gmail.com
