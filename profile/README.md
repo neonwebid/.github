@@ -1,7 +1,3 @@
-<img alt="Logo NeonWebId" src="https://github.com/neonwebid/.github/assets/11472981/07e942b2-0a53-43a4-b82c-4dbd09247db2" width="160" />
-
-# NeonWebId
-
 Kode yang kami pakai di [neon.web.id](https://neon.web.id) dan kami bagikan gratis: plugin WordPress dan potongan kode dari artikel. Tiap plugin punya halaman penjelasan di situs, ditulis untuk kamu yang bukan programmer.
 
 ## Plugin WordPress
